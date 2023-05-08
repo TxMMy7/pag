@@ -1,0 +1,105 @@
+/* Cambiar el color de fondo */
+body {
+    background-color: #f2f2f2;
+  }
+  
+  /* Cambiar el color del texto */
+  h1 {
+    color: #c90000;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #721d1d00;
+  }
+  
+  /* Cambiar el tamaño y tipo de fuente */
+  p {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f2f2f200;
+  }
+  
+  /* Cambiar el color y tamaño de un enlace */
+  h2 {
+    color: #0064c9;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f2f2f200;
+  }
+  h3 {
+    color: #000000;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: #f2f2f200;
+  }
+  h4 {
+    color: #000000;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: #f2f2f200;
+  }
+  h5 {
+    color: #000000;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: #f2f2f200;
+  }
+  h6 {
+    color: #000000;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: #f2f2f200;
+  }
+  /* Cambiar el espaciado entre elementos */
+  .container {
+    margin-top: 20px;
+    padding: 10px;
+  }
+  .destacado {
+    background-color: #ffcc00;
+    padding: 10px;
+  }
+  
+  .destacado h2 {
+    color: #000000;
+    font-size: 10px;
+  }
+  .mi-div {
+    background-image: url("/img/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .login-card {
+    grid-template-columns: auto auto;
+  }
+  .otro-div {
+    background-image: url("/img/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .columna-izquierda {
+    float: left;
+    width: 50%;
+  }
+  
+  .columna-derecha {
+    float: right;
+    width: 50%;
+  }
